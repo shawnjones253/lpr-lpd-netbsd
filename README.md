@@ -1,13 +1,13 @@
-Design Document:
+Design Document:  
 https://docs.google.com/document/d/1aSeazAHPC6k6Izjz9cKcZ55lwWDCCzaCzumgvU2mnlo/edit?usp=sharing
 
-SRS:
+SRS:  
 https://docs.google.com/document/d/1A-0Fuy7eEsHORerWWUcPpHlw1uqUlgX-xDfJrI_62Zw/edit?usp=sharing
 
-Vision and Scope:
+Vision and Scope:  
 https://docs.google.com/document/d/1BHnks5Y8ArgX_JRPooPVtknyphHlu49LvoxBG59yTKY/edit?usp=sharing
 
-Project schedule:
-Requirements: October-December 2015
-Design: January-March 2016
+Project schedule:  
+Requirements: October-December 2015  
+Design: January-March 2016  
 Implementation: April-June 2016
